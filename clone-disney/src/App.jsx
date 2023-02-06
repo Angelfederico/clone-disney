@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>Clone Disney</h1>
-      <p>fiuba</p>
+      <h2>App que da la UI  de la pagina de disney</h2>
     </>
   )
 }

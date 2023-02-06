@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Clone Disney</h1>
+      <p>fiuba</p>
     </>
   )
 }
